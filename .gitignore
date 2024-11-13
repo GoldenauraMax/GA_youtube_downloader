@@ -48,4 +48,5 @@ wheels/
 .installed.cfg
 *.egg-info/
 
-# git ignore 파일의 예시를 추가하고 원격 저장소에 반영
+db_update.py
+
