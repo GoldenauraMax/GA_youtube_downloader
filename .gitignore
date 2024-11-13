@@ -1,0 +1,51 @@
+# Python 관련 파일들
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 환경 설정 파일 및 가상 환경
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# IDE 설정 파일 (예: VSCode, PyCharm)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# macOS 시스템 파일
+.DS_Store
+
+# 로그 및 임시 파일
+*.log
+*.sqlite3
+
+# 파일 출력 관련 (예: CSV, JSON 등)
+*.csv
+*.json
+*.xml
+
+# Python 패키지
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg-info
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg-info/
+
+# git ignore 파일의 예시를 추가하고 원격 저장소에 반영
